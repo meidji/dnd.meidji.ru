@@ -1,0 +1,22 @@
+body {
+	  background-color: #FFFFFF;
+	}
+
+div {
+	background-color: #FFFFFF
+}
+
+.gamecell {
+	background-color: #30d5c8;
+	font-size: 25;
+}
+
+.gamecell:hover {
+	background-color: #1c6b72;
+}
+
+.hidden {  visibility: hidden; }
+
+td {
+	background-color: #30d5c8;
+}

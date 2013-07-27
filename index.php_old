@@ -1,0 +1,10 @@
+<html>
+<body>
+<form action="game/auth2.php" method="post">
+Name: <input type="text" name="name" />
+Pass:<input type="text" name="passw" />
+<input type="submit" />
+</form>
+
+</body>
+</html> 
